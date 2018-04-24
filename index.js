@@ -2,5 +2,5 @@ var katzDeli = [];
 
 function takeANumber(katzDeliLine) {
   katzDeli++;
-  
+  return katzDeli + 1;
 }
