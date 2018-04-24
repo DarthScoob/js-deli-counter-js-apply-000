@@ -5,3 +5,10 @@ function takeANumber(katzDeliLine, name) {
   return katzDeli + 1;
 }
 
+function nowServing() {
+  
+}
+
+function currentLine() {
+  
+}
