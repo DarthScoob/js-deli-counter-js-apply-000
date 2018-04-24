@@ -1,6 +1,6 @@
 var katzDeli = [];
 
-function takeANumber(katzDeliLine, "Ada") {
+function takeANumber(katzDeliLine, Ada) {
   katzDeli++;
   return katzDeli + 1;
 }
